@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a simple website containing several recipes. Each recipe will have its own page, with images and links to external resources. Upon completion of this assignment I will have demonstrated knowledge of basic html. I will use tags to create headings, paragraphs, links and images. I will also emphasise specific text throughout.
